@@ -1,8 +1,16 @@
+import { useState } from "react";
+
 const Toggle = () => {
+  const [add, setAdded] = useState("Add to cart");
   return (
     <div className="btn">
       <p>
-        <button className="btn">Add to cart</button>
+        <button
+          onClick={() => setAdded("Sign in to check out")}
+          className="btn"
+        >
+          {add}
+        </button>
       </p>
     </div>
   );
