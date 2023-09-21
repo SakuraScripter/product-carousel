@@ -4,6 +4,10 @@
 
 The Product Slider Carousel can display a collection of items in a smooth and effective manner on any page. It is 100% responsive and works flawlessly on all devices. It's built using React, offering a modern and efficient development environment for building interactive pricing displays.
 
+## Preview
+
+<img width="1867" alt="Captura de ecrã 2023-09-21, às 15 25 56" src="https://github.com/SakuraScripter/product-carousel/assets/115422221/73459733-864a-42bd-bdc5-bf4c833c717a">
+
 ## Technologies Used
 
 - **React**: The project utilizes the React library to build dynamic and interactive user interfaces.
@@ -42,8 +46,4 @@ To set up and run this project locally, make sure you have the following prerequ
    ```
 
    This will start the development server, allowing you to view the app in your browser.
-
-## Preview
-
-<img width="1867" alt="Captura de ecrã 2023-09-21, às 15 25 56" src="https://github.com/SakuraScripter/product-carousel/assets/115422221/73459733-864a-42bd-bdc5-bf4c833c717a">
 
