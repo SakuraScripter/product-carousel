@@ -45,5 +45,5 @@ To set up and run this project locally, make sure you have the following prerequ
 
 ## Preview
 
-<img width="1870" alt="Captura de ecrã 2023-09-21, às 15 13 11" src="https://github.com/SakuraScripter/product-carousel/assets/115422221/23a91e95-b62e-48e4-b937-324ffce3202c">
+<img width="1867" alt="Captura de ecrã 2023-09-21, às 15 25 56" src="https://github.com/SakuraScripter/product-carousel/assets/115422221/73459733-864a-42bd-bdc5-bf4c833c717a">
 
