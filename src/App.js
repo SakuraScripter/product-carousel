@@ -11,7 +11,6 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>React Multi Carrousel</h1>
       <Carousel responsive={responsive}>{myProducts}</Carousel>
     </div>
   );
