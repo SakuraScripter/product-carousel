@@ -38,7 +38,7 @@ To set up and run this project locally, make sure you have the following prerequ
    To launch the application in development mode, run the following command:
 
    ```bash
-   npm run dev
+   npm start
    ```
 
    This will start the development server, allowing you to view the app in your browser.
