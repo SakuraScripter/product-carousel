@@ -44,4 +44,6 @@ To set up and run this project locally, make sure you have the following prerequ
    This will start the development server, allowing you to view the app in your browser.
 
 ## Preview
-![Uploading Captura de ecrã 2023-09-21, às 15.13.11.png…]()
+
+<img width="1870" alt="Captura de ecrã 2023-09-21, às 15 13 11" src="https://github.com/SakuraScripter/product-carousel/assets/115422221/23a91e95-b62e-48e4-b937-324ffce3202c">
+
