@@ -44,3 +44,4 @@ To set up and run this project locally, make sure you have the following prerequ
    This will start the development server, allowing you to view the app in your browser.
 
 ## Preview
+![Uploading Captura de ecrã 2023-09-21, às 15.13.11.png…]()
