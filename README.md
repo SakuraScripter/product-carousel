@@ -45,5 +45,4 @@ To set up and run this project locally, make sure you have the following prerequ
    npm start
    ```
 
-   This will start the development server, allowing you to view the app in your browser.
-
+   This will start the development server, allowing you to view the app in your browser or open [http://localhost:3000](http://localhost:3000) to view it in your browser.
